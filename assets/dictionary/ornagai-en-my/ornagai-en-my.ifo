@@ -1,0 +1,10 @@
+StarDict's dict ifo file
+version=3.0.0
+bookname=Ornagai (en-my)
+wordcount=111232
+idxfilesize=2077492
+sametypesequence=h
+author=Ornagai
+website=https://ornagai.com
+date=2026-11-15
+description=Ornagai English to Myanmar dictionary. 111232 headwords, 127930 senses, 249103 example sentences. Exported from the ornagai_v3_app MySQL database on 2026-11-15.
